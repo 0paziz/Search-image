@@ -1,5 +1,5 @@
 // API Accsess key
-const aKey = "cjFy9IUrPmkXz1HVYje4h7nTGKF4H9CZRgmN1_wK_xw";
+import { aKey } from "./config.js";
 
 
 const formSubmit = document.querySelector("form");
